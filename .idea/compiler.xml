@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -11,10 +12,11 @@
         <module name="eureka-serve" />
         <module name="eureka-serve-2" />
         <module name="provider" />
-        <module name="provider-2" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="cloud.test.consumer-hystrix.main" target="1.8" />
+      <module name="cloud.test.consumer-hystrix.test" target="1.8" />
       <module name="consumer" target="1.8" />
       <module name="consumer-feign" target="1.8" />
       <module name="eureka-serve" target="1.8" />
