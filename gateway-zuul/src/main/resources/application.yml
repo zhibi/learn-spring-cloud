@@ -15,5 +15,6 @@ zuul:
     consumer:
       path: /c/**
       serviceId: consumer
-
+  ignored-services:
+    - provider
 
