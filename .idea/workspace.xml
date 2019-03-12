@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b00a8d4-99ee-4699-a49d-36b547a0221e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_projectlombok_lombok_1_18_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway-zuul/src/main/java/cloud/test/gateway/filter/AccessFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/cloud.test.gateway-zuul.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/cloud.test.gateway-zuul.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/cloud.test.gateway-zuul.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/cloud.test.gateway-zuul.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway-zuul/src/main/java/cloud/test/gateway/config/BeanConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway-zuul/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/gateway-zuul/build.gradle" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/eureka-serve/target/" />
     <ignored path="$PROJECT_DIR$/eureka-serve-2/target/" />
@@ -70,17 +65,31 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gateway-zuul/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="460">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gateway-zuul/src/main/java/cloud/test/gateway/config/BeanConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="14" column="53" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#390#391#0" expanded="true" />
+                <element signature="e#439#440#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gateway-zuul/src/main/java/cloud/test/gateway/filter/AccessFilter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="71">
-              <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+            <state relative-caret-position="209">
+              <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -109,11 +118,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://F:/Repository-Gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-zuul/2.1.1.RELEASE/4d58f73b8b2c152941ca8ebd0001b405d8731da4/spring-cloud-netflix-zuul-2.1.1.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/ZuulProperties.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-127">
-              <caret line="505" column="24" selection-start-line="505" selection-start-column="24" selection-end-line="505" selection-end-column="24" />
+            <state relative-caret-position="182">
+              <caret line="283" column="16" selection-start-line="283" selection-start-column="16" selection-end-line="283" selection-end-column="16" />
               <folding>
                 <element signature="e#7990#7991#0" expanded="true" />
                 <element signature="e#8017#8018#0" expanded="true" />
+                <element signature="e#8488#8489#0" expanded="true" />
+                <element signature="e#8533#8534#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -198,9 +209,10 @@
         <option value="$PROJECT_DIR$/consumer-hystrix/src/main/java/cloud/test/consumer/service/IndexService.java" />
         <option value="$PROJECT_DIR$/gateway-zuul/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/gateway-zuul/src/main/java/cloud/test/gateway/GatewayZuulApplication.java" />
-        <option value="$PROJECT_DIR$/gateway-zuul/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/gateway-zuul/build.gradle" />
         <option value="$PROJECT_DIR$/gateway-zuul/src/main/java/cloud/test/gateway/filter/AccessFilter.java" />
+        <option value="$PROJECT_DIR$/gateway-zuul/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/gateway-zuul/src/main/java/cloud/test/gateway/config/BeanConfig.java" />
       </list>
     </option>
   </component>
@@ -273,16 +285,6 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="gateway" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cloud-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cloud.test" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="gateway-zuul" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="gateway" type="462c0819:PsiDirectoryNode" />
-              <item name="filter" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cloud-test" type="b2602c69:ProjectViewProjectNode" />
@@ -418,8 +420,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.25" />
       <window_info id="Web" order="1" sideWeight="0.50141644" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -439,7 +442,7 @@
       <window_info anchor="bottom" id="Spring" order="10" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3286119" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
-      <window_info active="true" anchor="bottom" id="Run Dashboard" order="13" visible="true" weight="0.4348442" />
+      <window_info anchor="bottom" id="Run Dashboard" order="13" weight="0.674221" />
       <window_info anchor="right" id="Gradle" visible="true" weight="0.18230563" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -458,16 +461,11 @@
     <MESSAGE value="使用Feign配置负载均衡" />
     <MESSAGE value="hystrik 断路器的简单实用" />
     <MESSAGE value="zuul 网关简单使用" />
-    <option name="LAST_COMMIT_MESSAGE" value="zuul 网关简单使用" />
+    <MESSAGE value="zuule 添加过滤器" />
+    <MESSAGE value="zuul 忽略某个服务的映射" />
+    <option name="LAST_COMMIT_MESSAGE" value="zuul 忽略某个服务的映射" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-dependencies/Greenwich.SR1/spring-cloud-dependencies-Greenwich.SR1.pom">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="209" column="31" lean-forward="true" selection-start-line="209" selection-start-column="31" selection-end-line="209" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.1.1.RELEASE/spring-cloud-netflix-eureka-client-2.1.1.RELEASE-sources.jar!/org/springframework/cloud/netflix/eureka/EurekaClientAutoConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
@@ -819,24 +817,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://F:/Repository-Gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-zuul/2.1.1.RELEASE/4d58f73b8b2c152941ca8ebd0001b405d8731da4/spring-cloud-netflix-zuul-2.1.1.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/ZuulProperties.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-127">
-          <caret line="505" column="24" selection-start-line="505" selection-start-column="24" selection-end-line="505" selection-end-column="24" />
-          <folding>
-            <element signature="e#7990#7991#0" expanded="true" />
-            <element signature="e#8017#8018#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gateway-zuul/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gateway-zuul/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
@@ -853,10 +833,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gateway-zuul/src/main/java/cloud/test/gateway/filter/AccessFilter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
-          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        <state relative-caret-position="209">
+          <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Repository-Gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-zuul/2.1.1.RELEASE/4d58f73b8b2c152941ca8ebd0001b405d8731da4/spring-cloud-netflix-zuul-2.1.1.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/ZuulProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="283" column="16" selection-start-line="283" selection-start-column="16" selection-end-line="283" selection-end-column="16" />
+          <folding>
+            <element signature="e#7990#7991#0" expanded="true" />
+            <element signature="e#8017#8018#0" expanded="true" />
+            <element signature="e#8488#8489#0" expanded="true" />
+            <element signature="e#8533#8534#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gateway-zuul/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gateway-zuul/src/main/java/cloud/test/gateway/config/BeanConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="53" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#439#440#0" expanded="true" />
           </folding>
         </state>
       </provider>
