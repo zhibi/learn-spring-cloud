@@ -17,6 +17,8 @@
     <bytecodeTargetLevel>
       <module name="cloud.test.consumer-hystrix.main" target="1.8" />
       <module name="cloud.test.consumer-hystrix.test" target="1.8" />
+      <module name="cloud.test.gateway-zuul.main" target="1.8" />
+      <module name="cloud.test.gateway-zuul.test" target="1.8" />
       <module name="consumer" target="1.8" />
       <module name="consumer-feign" target="1.8" />
       <module name="eureka-serve" target="1.8" />

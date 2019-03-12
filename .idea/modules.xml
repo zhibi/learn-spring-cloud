@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloud.test.consumer-hystrix.iml" filepath="$PROJECT_DIR$/.idea/modules/cloud.test.consumer-hystrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloud.test.consumer-hystrix.main.iml" filepath="$PROJECT_DIR$/.idea/modules/cloud.test.consumer-hystrix.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloud.test.consumer-hystrix.test.iml" filepath="$PROJECT_DIR$/.idea/modules/cloud.test.consumer-hystrix.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloud.test.gateway-zuul.iml" filepath="$PROJECT_DIR$/.idea/modules/cloud.test.gateway-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloud.test.gateway-zuul.main.iml" filepath="$PROJECT_DIR$/.idea/modules/cloud.test.gateway-zuul.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloud.test.gateway-zuul.test.iml" filepath="$PROJECT_DIR$/.idea/modules/cloud.test.gateway-zuul.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/consumer/consumer.iml" filepath="$PROJECT_DIR$/consumer/consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/consumer-feign/consumer-feign.iml" filepath="$PROJECT_DIR$/consumer-feign/consumer-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-serve/eureka-serve.iml" filepath="$PROJECT_DIR$/eureka-serve/eureka-serve.iml" />
