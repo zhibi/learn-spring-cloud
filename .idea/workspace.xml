@@ -2,13 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b00a8d4-99ee-4699-a49d-36b547a0221e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/consumer/src/test/java/cloud/test/consumer/TestLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_guava_16_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_freemarker_freemarker_2_3_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_freemarker_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_cloud_spring_cloud_netflix_hystrix_dashboard_2_1_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_dashboard_2_1_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_context_support_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_d3js_3_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_webjars_jquery_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/cloud.test.hystrix-dashboard.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/cloud.test.hystrix-dashboard.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/cloud.test.hystrix-dashboard.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer-hystrix/src/main/java/cloud/test/consumer/config/BeanConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hystrix-dashboard/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hystrix-dashboard/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hystrix-dashboard/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hystrix-dashboard/src/main/java/cloud/test/hystrix/HystrixDashboardApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hystrix-dashboard/src/main/java/cloud/test/hystrix/config/BeanConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hystrix-dashboard/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hystrix-dashboard/src/test/java/cloud/test/hystrix/HystrixDashboardApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turbine/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turbine/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turbine/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turbine/src/main/java/cloud/test/turbine/TurbineApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turbine/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turbine/src/test/java/cloud/test/turbine/TurbineApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/cloud.test.consumer-hystrix.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/cloud.test.consumer-hystrix.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/cloud.test.consumer-hystrix.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/cloud.test.consumer-hystrix.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/cloud.test.gateway-zuul.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/cloud.test.gateway-zuul.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/cloud.test.gateway-zuul.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/cloud.test.gateway-zuul.test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer/src/main/java/cloud/test/consumer/config/HttpConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/consumer/src/main/java/cloud/test/consumer/config/HttpConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer/src/main/java/cloud/test/consumer/controller/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/consumer/src/main/java/cloud/test/consumer/controller/IndexController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-serve/src/main/java/cloud/test/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-serve/src/main/java/cloud/test/ServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-serve/src/test/java/cloud/test/DemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-serve/src/test/java/cloud/test/ServiceApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider/src/main/java/cloud/test/provider/ProviderApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/provider/src/main/java/cloud/test/provider/ProviderApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer-hystrix/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/consumer-hystrix/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer-hystrix/src/main/java/cloud/test/consumer/ConsumerHystrixApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/consumer-hystrix/src/main/java/cloud/test/consumer/ConsumerHystrixApplication.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/eureka-serve/target/" />
     <ignored path="$PROJECT_DIR$/eureka-serve-2/target/" />
@@ -22,6 +51,12 @@
     <ignored path="$PROJECT_DIR$/gateway-zuul/.gradle/" />
     <ignored path="$PROJECT_DIR$/gateway-zuul/build/" />
     <ignored path="$PROJECT_DIR$/gateway-zuul/out/" />
+    <ignored path="$PROJECT_DIR$/hystrix-dashboard/.gradle/" />
+    <ignored path="$PROJECT_DIR$/hystrix-dashboard/build/" />
+    <ignored path="$PROJECT_DIR$/hystrix-dashboard/out/" />
+    <ignored path="$PROJECT_DIR$/turbine/.gradle/" />
+    <ignored path="$PROJECT_DIR$/turbine/build/" />
+    <ignored path="$PROJECT_DIR$/turbine/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +77,12 @@
       <ProjectState />
     </projectState>
     <projectState path="$PROJECT_DIR$/gateway-zuul">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/hystrix-dashboard">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/turbine">
       <ProjectState />
     </projectState>
   </component>
@@ -67,60 +108,77 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/eureka-serve/src/main/java/cloud/test/ServiceApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/provider/src/main/java/cloud/test/provider/ProviderApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/Application/JDK1.8/src.zip!/javax/imageio/spi/ServiceRegistry.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1537">
-              <caret line="98" column="13" selection-start-line="98" selection-start-column="13" selection-end-line="98" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/consumer/src/main/java/cloud/test/consumer/config/HttpConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-12">
-              <caret line="5" column="51" lean-forward="true" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
-              <folding>
-                <element signature="e#558#559#0" expanded="true" />
-                <element signature="e#662#663#0" expanded="true" />
-                <element signature="e#703#704#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/consumer/src/main/java/cloud/test/consumer/controller/IndexController.java">
+        <entry file="file://$PROJECT_DIR$/turbine/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="322">
+              <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gateway-zuul/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" selection-start-line="5" selection-end-line="8" selection-end-column="78" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/turbine/src/main/java/cloud/test/turbine/TurbineApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gateway-zuul/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="13" column="52" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/consumer-hystrix/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="22" selection-start-line="22" selection-end-line="22" selection-end-column="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/turbine/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-138">
+              <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/provider-2/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-34">
+              <caret line="44" column="32" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/provider/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="239">
+              <caret line="82" column="17" selection-start-line="82" selection-start-column="17" selection-end-line="82" selection-end-column="76" />
+            </state>
+          </provider>
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
         </entry>
       </file>
     </leaf>
@@ -138,6 +196,8 @@
       <find>ribbon</find>
       <find>spring-cloud-starter-netflix-ribbon</find>
       <find>serviceUrl</find>
+      <find>init</find>
+      <find>initSch</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -174,7 +234,6 @@
         <option value="$PROJECT_DIR$/consumer-hystrix/src/main/java/cloud/test/consumer/service/FeignService.java" />
         <option value="$PROJECT_DIR$/provider-2/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/consumer-hystrix/src/main/java/cloud/test/consumer/config/BlConfig.java" />
-        <option value="$PROJECT_DIR$/consumer-hystrix/src/main/java/cloud/test/consumer/ConsumerHystrixApplication.java" />
         <option value="$PROJECT_DIR$/consumer-hystrix/src/main/java/cloud/test/consumer/service/IndexService.java" />
         <option value="$PROJECT_DIR$/gateway-zuul/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/gateway-zuul/src/main/java/cloud/test/gateway/GatewayZuulApplication.java" />
@@ -186,6 +245,16 @@
         <option value="$PROJECT_DIR$/provider/src/main/java/cloud/test/provider/ProviderApplication.java" />
         <option value="$PROJECT_DIR$/consumer/src/main/java/cloud/test/consumer/config/HttpConfig.java" />
         <option value="$PROJECT_DIR$/consumer/src/main/java/cloud/test/consumer/controller/IndexController.java" />
+        <option value="$PROJECT_DIR$/hystrix-dashboard/src/main/java/cloud/test/hystrix/HystrixDashboardApplication.java" />
+        <option value="$PROJECT_DIR$/hystrix-dashboard/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/consumer-hystrix/src/main/java/cloud/test/consumer/ConsumerHystrixApplication.java" />
+        <option value="$PROJECT_DIR$/consumer-hystrix/build.gradle" />
+        <option value="$PROJECT_DIR$/hystrix-dashboard/build.gradle" />
+        <option value="$PROJECT_DIR$/hystrix-dashboard/src/main/java/cloud/test/hystrix/config/BeanConfig.java" />
+        <option value="$PROJECT_DIR$/consumer-hystrix/src/main/java/cloud/test/consumer/config/BeanConfig.java" />
+        <option value="$PROJECT_DIR$/turbine/build.gradle" />
+        <option value="$PROJECT_DIR$/turbine/src/main/java/cloud/test/turbine/TurbineApplication.java" />
+        <option value="$PROJECT_DIR$/turbine/src/main/resources/application.yml" />
       </list>
     </option>
   </component>
@@ -223,29 +292,68 @@
           <expand>
             <path>
               <item name="cloud-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud.test" type="9c53a853:ProjectViewModuleGroupNode" />
             </path>
             <path>
               <item name="cloud-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud.test" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="gateway-zuul" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloud-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloud.test" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="gateway-zuul" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cloud-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloud.test" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="gateway-zuul" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloud-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloud.test" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="gateway-zuul" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloud-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloud.test" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="turbine" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloud-test" type="b2602c69:ProjectViewProjectNode" />
               <item name="consumer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloud-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="consumer-feign" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloud-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="consumer-feign" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cloud-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="consumer-feign" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cloud-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer-feign" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cloud-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer-feign" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -253,16 +361,7 @@
             </path>
             <path>
               <item name="cloud-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cloud-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer-feign" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -271,42 +370,16 @@
             </path>
             <path>
               <item name="cloud-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="provider" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cloud-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="provider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cloud-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="provider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cloud-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="provider" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer-feign" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cloud-test" type="b2602c69:ProjectViewProjectNode" />
               <item name="provider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="provider" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cloud-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="provider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="provider" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -350,23 +423,7 @@
         </path>
         <path>
           <item name="Found 5 services " type="fcff1e1b:RestServiceStructure$RootNode" />
-          <item name="consumer-feign" type="c588b436:RestServiceStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="Found 5 services " type="fcff1e1b:RestServiceStructure$RootNode" />
-          <item name="consumer" type="c588b436:RestServiceStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="Found 5 services " type="fcff1e1b:RestServiceStructure$RootNode" />
           <item name="cloud.test.consumer-hystrix.main" type="c588b436:RestServiceStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="Found 5 services " type="fcff1e1b:RestServiceStructure$RootNode" />
-          <item name="provider" type="c588b436:RestServiceStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="Found 5 services " type="fcff1e1b:RestServiceStructure$RootNode" />
-          <item name="provider-2" type="c588b436:RestServiceStructure$ProjectNode" />
         </path>
       </expand>
       <select />
@@ -443,6 +500,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HystrixDashboardApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud.test.hystrix-dashboard.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cloud.test.hystrix.HystrixDashboardApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Prodiver2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="provider-2" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="cloud.test.prodiver2.Prodiver2Application" />
@@ -461,6 +525,13 @@
       <module name="eureka-serve" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="cloud.test.ServiceApplication" />
       <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TurbineApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud.test.turbine.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cloud.test.turbine.TurbineApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -488,7 +559,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49716714" visible="true" weight="0.19638069" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49716714" visible="true" weight="0.19638069" />
       <window_info id="Web" order="1" sideWeight="0.5028329" side_tool="true" weight="0.2533512" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -507,7 +578,7 @@
       <window_info anchor="bottom" id="Spring" order="10" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3286119" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
-      <window_info anchor="bottom" id="Run Dashboard" order="13" weight="0.39093485" />
+      <window_info anchor="bottom" id="Run Dashboard" order="13" weight="0.46600565" />
       <window_info anchor="bottom" id="Build" order="14" weight="0.60764873" />
       <window_info anchor="bottom" id="Tail" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -532,7 +603,8 @@
     <MESSAGE value="zuule 添加过滤器" />
     <MESSAGE value="zuul 忽略某个服务的映射" />
     <MESSAGE value="自定义路由规则" />
-    <option name="LAST_COMMIT_MESSAGE" value="自定义路由规则" />
+    <MESSAGE value="多restTemplate 测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="多restTemplate 测试" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -555,262 +627,16 @@
           <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.8/eureka-client-1.9.8-sources.jar!/com/netflix/discovery/DiscoveryClient.java</url>
+          <line>1267</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-openfeign-core/2.1.1.RELEASE/spring-cloud-openfeign-core-2.1.1.RELEASE-sources.jar!/org/springframework/cloud/openfeign/EnableFeignClients.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/consumer-feign/src/main/java/cloud/test/consumer/config/BlConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/IRule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/RoundRobinRule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="36" column="63" selection-start-line="36" selection-start-column="63" selection-end-line="36" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/consumer-feign/src/main/java/cloud/test/consumer/service/FeignService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/provider/src/main/java/cloud/test/provider/controller/TestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#258#259#0" expanded="true" />
-            <element signature="e#288#289#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/consumer-hystrix/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/consumer-feign/src/main/java/cloud/test/consumer/ConsumerFeignApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/consumer-hystrix/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-69">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/consumer-feign/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" selection-start-line="10" selection-end-line="12" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://F:/Repository-Gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-commons/2.1.1.RELEASE/f1addc6a6845f579f0f04154e590bda76d2276eb/spring-cloud-commons-2.1.1.RELEASE-sources.jar!/org/springframework/cloud/client/discovery/EnableDiscoveryClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://F:/Repository-Gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-commons/2.1.1.RELEASE/f1addc6a6845f579f0f04154e590bda76d2276eb/spring-cloud-commons-2.1.1.RELEASE-sources.jar!/org/springframework/cloud/client/discovery/EnableDiscoveryClientImportSelector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-765">
-          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://F:/Repository-Gradle/caches/modules-2/files-2.1/com.netflix.hystrix/hystrix-javanica/1.5.18/f727ee47b3fa9bba5b73944025b2ecaf54d26679/hystrix-javanica-1.5.18-sources.jar!/com/netflix/hystrix/contrib/javanica/annotation/HystrixCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="85" column="25" selection-start-line="85" selection-start-column="11" selection-end-line="85" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/consumer-hystrix/src/main/java/cloud/test/consumer/controller/IndexController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eureka-serve/src/main/resources/application.yaml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/provider/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/provider-2/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/consumer-hystrix/src/main/java/cloud/test/consumer/config/BlConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
-          <folding>
-            <element signature="e#401#402#0" expanded="true" />
-            <element signature="e#440#441#0" expanded="true" />
-            <element signature="e#547#548#0" expanded="true" />
-            <element signature="e#587#588#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://F:/Repository-Gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-commons/2.1.1.RELEASE/f1addc6a6845f579f0f04154e590bda76d2276eb/spring-cloud-commons-2.1.1.RELEASE-sources.jar!/org/springframework/cloud/client/SpringCloudApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="37" column="22" lean-forward="true" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/consumer-hystrix/src/main/java/cloud/test/consumer/ConsumerHystrixApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-          <folding>
-            <element signature="e#268#269#0" expanded="true" />
-            <element signature="e#345#346#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/consumer-hystrix/src/main/java/cloud/test/consumer/service/IndexService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#642#643#0" expanded="true" />
-            <element signature="e#680#681#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/consumer-hystrix/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="78" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gateway-zuul/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://F:/Repository-Gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-zuul/2.1.1.RELEASE/4d58f73b8b2c152941ca8ebd0001b405d8731da4/spring-cloud-netflix-zuul-2.1.1.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/discovery/PatternServiceRouteMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="37" column="56" selection-start-line="37" selection-start-column="56" selection-end-line="37" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://F:/Repository-Gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-zuul/2.1.1.RELEASE/4d58f73b8b2c152941ca8ebd0001b405d8731da4/spring-cloud-netflix-zuul-2.1.1.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/discovery/ServiceRouteMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="30" column="7" selection-start-line="28" selection-start-column="13" selection-end-line="30" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://F:/Repository-Gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-zuul/2.1.1.RELEASE/4d58f73b8b2c152941ca8ebd0001b405d8731da4/spring-cloud-netflix-zuul-2.1.1.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/discovery/SimpleServiceRouteMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="26" column="40" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="40" />
-          <folding>
-            <element signature="e#890#891#0" expanded="true" />
-            <element signature="e#913#914#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gateway-zuul/src/main/java/cloud/test/gateway/filter/AccessFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://F:/Repository-Gradle/caches/modules-2/files-2.1/com.netflix.zuul/zuul-core/1.3.1/87ccf7a5d7a2c2884732347efb5b4ba91547b76d/zuul-core-1.3.1-sources.jar!/com/netflix/zuul/context/RequestContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6969">
-          <caret line="398" column="35" selection-start-line="398" selection-start-column="27" selection-end-line="398" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gateway-zuul/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="24" column="51" selection-start-line="24" selection-start-column="51" selection-end-line="24" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://F:/Repository-Gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-zuul/2.1.1.RELEASE/4d58f73b8b2c152941ca8ebd0001b405d8731da4/spring-cloud-netflix-zuul-2.1.1.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/ZuulProperties.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5083">
-          <caret line="283" column="16" selection-start-line="283" selection-start-column="16" selection-end-line="283" selection-end-column="16" />
-          <folding>
-            <element signature="e#7990#7991#0" expanded="true" />
-            <element signature="e#8017#8018#0" expanded="true" />
-            <element signature="e#8488#8489#0" expanded="true" />
-            <element signature="e#8533#8534#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gateway-zuul/src/main/java/cloud/test/gateway/GatewayZuulApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gateway-zuul/src/main/java/cloud/test/gateway/config/BeanConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
@@ -886,13 +712,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/2.1.1.RELEASE/spring-cloud-commons-2.1.1.RELEASE-sources.jar!/org/springframework/cloud/client/discovery/EnableDiscoveryClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="28" column="41" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://F:/Repository-Gradle/caches/modules-2/files-2.1/com.netflix.eureka/eureka-client/1.9.8/7a525586acaaf6e4dad14b190116d70f82dfffe7/eureka-client-1.9.8-sources.jar!/com/netflix/discovery/DiscoveryClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4876">
@@ -904,20 +723,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
           <caret line="56" column="89" lean-forward="true" selection-start-line="56" selection-start-column="89" selection-end-line="56" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.8/eureka-client-1.9.8-sources.jar!/com/netflix/discovery/DiscoveryClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2877">
-          <caret line="301" column="67" selection-start-line="301" selection-start-column="45" selection-end-line="301" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/provider-2/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
-          <caret line="44" column="32" lean-forward="true" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -948,30 +753,293 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/consumer/src/main/java/cloud/test/consumer/controller/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/2.1.1.RELEASE/spring-cloud-commons-2.1.1.RELEASE-sources.jar!/org/springframework/cloud/client/loadbalancer/LoadBalanced.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="35" column="7" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.5.RELEASE/spring-beans-5.1.5.RELEASE-sources.jar!/org/springframework/beans/factory/annotation/Qualifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="31" column="26" lean-forward="true" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gateway-zuul/src/main/java/cloud/test/gateway/GatewayZuulApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/eureka-serve/src/main/java/cloud/test/ServiceApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
+        <state relative-caret-position="138">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/provider/src/main/java/cloud/test/provider/ProviderApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="276">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/consumer/src/main/java/cloud/test/consumer/controller/IndexController.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/2.1.1.RELEASE/spring-cloud-commons-2.1.1.RELEASE-sources.jar!/org/springframework/cloud/client/discovery/EnableDiscoveryClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+        <state relative-caret-position="310">
+          <caret line="36" column="33" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.8/eureka-client-1.9.8-sources.jar!/com/netflix/discovery/InstanceInfoReplicator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="120" column="39" lean-forward="true" selection-start-line="120" selection-start-column="39" selection-end-line="120" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.8/eureka-client-1.9.8-sources.jar!/com/netflix/discovery/shared/transport/decorator/EurekaHttpClientDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="57" column="68" selection-start-line="57" selection-start-column="52" selection-end-line="57" selection-end-column="68" />
+          <folding>
+            <element signature="e#1885#1886#0" expanded="true" />
+            <element signature="e#1947#1948#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.8/eureka-client-1.9.8-sources.jar!/com/netflix/discovery/EurekaClientConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="54" column="37" lean-forward="true" selection-start-line="54" selection-start-column="37" selection-end-line="54" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.8/eureka-client-1.9.8-sources.jar!/com/netflix/discovery/DiscoveryClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="1254" column="37" selection-start-line="1254" selection-start-column="24" selection-end-line="1254" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Application/JDK1.8/src.zip!/java/util/TimerTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2198">
+          <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.8/eureka-client-1.9.8-sources.jar!/com/netflix/discovery/TimedSupervisorTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-874">
+          <caret line="24" column="47" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hystrix-dashboard/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hystrix-dashboard/src/main/java/cloud/test/hystrix/HystrixDashboardApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hystrix-dashboard/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer-hystrix/src/main/java/cloud/test/consumer/service/IndexService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer-hystrix/src/main/java/cloud/test/consumer/ConsumerHystrixApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding>
+            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#356#357#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer-feign/src/main/java/cloud/test/consumer/service/FeignService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-openfeign-core/2.1.1.RELEASE/spring-cloud-openfeign-core-2.1.1.RELEASE-sources.jar!/org/springframework/cloud/openfeign/FeignClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hystrix-dashboard/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer-hystrix/src/main/java/cloud/test/consumer/controller/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+          <folding>
+            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Repository-Gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-netflix-hystrix/2.1.1.RELEASE/fde59028d7f7fc9421ce6688ddafdb5b02e66ba9/spring-cloud-netflix-hystrix-2.1.1.RELEASE-sources.jar!/org/springframework/cloud/netflix/hystrix/HystrixStreamEndpoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Repository-Gradle/caches/modules-2/files-2.1/com.netflix.hystrix/hystrix-metrics-event-stream/1.5.18/e0755e3b3d0eeecb63f5dfd7a8466e02edea5f4c/hystrix-metrics-event-stream-1.5.18-sources.jar!/com/netflix/hystrix/contrib/metrics/eventstream/HystrixMetricsStreamServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="40" column="94" selection-start-line="40" selection-start-column="67" selection-end-line="40" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Repository-Gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.1.3.RELEASE/5759c931e1287f82d132f37fcb14c396836ee42/spring-boot-2.1.3.RELEASE-sources.jar!/org/springframework/boot/web/servlet/ServletRegistrationBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="77" column="11" selection-start-line="77" selection-start-column="11" selection-end-line="77" selection-end-column="11" />
+          <folding>
+            <element signature="e#2669#2670#0" expanded="true" />
+            <element signature="e#2708#2709#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hystrix-dashboard/src/main/java/cloud/test/hystrix/config/BeanConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer-hystrix/src/main/java/cloud/test/consumer/config/BlConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer-hystrix/src/main/java/cloud/test/consumer/config/BeanConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="21" column="50" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gateway-zuul/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="13" column="52" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-2/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="44" column="32" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="82" column="17" selection-start-line="82" selection-start-column="17" selection-end-line="82" selection-end-column="76" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/turbine/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-138">
+          <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer-hystrix/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="22" selection-start-line="22" selection-end-line="22" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/turbine/src/main/java/cloud/test/turbine/TurbineApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/Repository-Gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-actuator-autoconfigure/2.1.3.RELEASE/b32031afa4753e2ab8ed3b58a6c627ab7313dc91/spring-boot-actuator-autoconfigure-2.1.3.RELEASE.jar!/META-INF/spring-configuration-metadata.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gateway-zuul/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" selection-start-line="5" selection-end-line="8" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/turbine/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
         </state>
       </provider>
     </entry>

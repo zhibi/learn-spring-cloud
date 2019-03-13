@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.cloud:spring-cloud-starter-netflix-turbine-stream:2.1.1.RELEASE">
+    <CLASSES>
+      <root url="jar://F:/Repository-Gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-netflix-turbine-stream/2.1.1.RELEASE/d0a90a5039f83667226304901dc97db87280487e/spring-cloud-starter-netflix-turbine-stream-2.1.1.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://F:/Repository-Gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-netflix-turbine-stream/2.1.1.RELEASE/dcf82d7d6d63af228d66506988f995f58a386655/spring-cloud-starter-netflix-turbine-stream-2.1.1.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

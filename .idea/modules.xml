@@ -8,6 +8,12 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloud.test.gateway-zuul.iml" filepath="$PROJECT_DIR$/.idea/modules/cloud.test.gateway-zuul.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloud.test.gateway-zuul.main.iml" filepath="$PROJECT_DIR$/.idea/modules/cloud.test.gateway-zuul.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloud.test.gateway-zuul.test.iml" filepath="$PROJECT_DIR$/.idea/modules/cloud.test.gateway-zuul.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloud.test.hystrix-dashboard.iml" filepath="$PROJECT_DIR$/.idea/modules/cloud.test.hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloud.test.hystrix-dashboard.main.iml" filepath="$PROJECT_DIR$/.idea/modules/cloud.test.hystrix-dashboard.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloud.test.hystrix-dashboard.test.iml" filepath="$PROJECT_DIR$/.idea/modules/cloud.test.hystrix-dashboard.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloud.test.turbine.iml" filepath="$PROJECT_DIR$/.idea/modules/cloud.test.turbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloud.test.turbine.main.iml" filepath="$PROJECT_DIR$/.idea/modules/cloud.test.turbine.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloud.test.turbine.test.iml" filepath="$PROJECT_DIR$/.idea/modules/cloud.test.turbine.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/consumer/consumer.iml" filepath="$PROJECT_DIR$/consumer/consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/consumer-feign/consumer-feign.iml" filepath="$PROJECT_DIR$/consumer-feign/consumer-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-serve/eureka-serve.iml" filepath="$PROJECT_DIR$/eureka-serve/eureka-serve.iml" />

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.microsoft.azure:azure-spring-boot:2.1.2">
+    <CLASSES>
+      <root url="jar://F:/Repository-Gradle/caches/modules-2/files-2.1/com.microsoft.azure/azure-spring-boot/2.1.2/601941801be058afa21ffcf9950b56ba1f1430cc/azure-spring-boot-2.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://F:/Repository-Gradle/caches/modules-2/files-2.1/com.microsoft.azure/azure-spring-boot/2.1.2/8acffff7e6f9db055b950e1d8b611a61484fa1b9/azure-spring-boot-2.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

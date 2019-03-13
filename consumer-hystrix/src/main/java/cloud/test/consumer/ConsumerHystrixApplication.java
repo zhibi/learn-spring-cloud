@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.cloud.client.SpringCloudApplication;
 
 /**
- * hystrik 熔断器
+ * hystrix 熔断器
  */
 @SpringCloudApplication
 public class ConsumerHystrixApplication {
