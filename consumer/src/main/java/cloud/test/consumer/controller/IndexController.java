@@ -30,7 +30,7 @@ public class IndexController {
         /**
          * 会报错  不使用loadBalanced 不能使用 eureka 服务
          */
-        System.out.println(restTemplate.getForObject("http://provider/", String.class));
+        //System.out.println(restTemplate.getForObject("http://provider/", String.class));
         return loadBalanced.getForObject("http://provider/", String.class);
     }
 }
